@@ -1,10 +1,12 @@
 # Fifty Quick Ideas to Improve your User Stories
 
+## Creating stories
+
 #### Tell Stories, dont write them 
 Requirements by collaboration. Use physical story cards, electronic ticketing systems and backlog management tools as remainders for conversations, don´t waste too much time nailing down the details upfront.
 (Insurance company)
 
-#### Don´t worrt too much about story format
+#### Don´t worry too much about story format
 The key element :
 - Story card is ideally just a token for a conversation.
 
@@ -31,9 +33,18 @@ If a story is too big, which effectively means the potentional cost of the exper
 A generic user role can never provide a particular user segment, it impossible to decide whether the proposed solution is the right one, or if it´s just unnecessary scope creep.(Consider how the product will be used as narrow target group)
 
 #### Evaluate zone of control and sphere of influence
+- _The zone of control_ includes all those things in a system that we can change on our own.
+- _The sphere of influence_ includes activities that we can impact, but can’t exercise full control over.
+- _The external environment_ includes the elements over which we have no influence.
 
+A good guideline is that the user need of a story (‘In order to…’) should ideally be in the sphere of influence of the delivery team, and the deliverable (‘I want…’) should ideally be in their zone of control
 
+#### Put a 'best before ' date on stories
+Separate user stories from the rest of the back log if they have time constraints and put ir a best before date to calculate when you should start working on, so they wont get "expired".
 
+##Planning with stories
+
+####
  
 
  
