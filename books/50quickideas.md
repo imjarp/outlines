@@ -42,9 +42,29 @@ A good guideline is that the user need of a story (‘In order to…’) should 
 #### Put a 'best before ' date on stories
 Separate user stories from the rest of the back log if they have time constraints and put ir a best before date to calculate when you should start working on, so they wont get "expired".
 
-##Planning with stories
+## Planning with stories
 
-####
+#### Set deadlines for addressing major risks
+Delivery teams should work with stakeholders to set explicit deadlines for addressing major risks at sustainable pace ( FBI example). Having an explicit plan to deal with big risks allows stakeholders and the delivery team to strike the right balance bewteen short-term business win and long term sustainability.
+
+#### Use hierarchical backlogs
+Try to divide your plan int several tiers and ther avoid breaking donw a higher-level until you complete all the relevant lower-level stories for the previous higher-level item.
+
+Recommended levels:
+ - big-picture business objective : example grow mobile suscription
+ - smaller scale business change that might contribute to that big picture : better conversion from web to mobile
+ - software deliverables that support those changes : data import from competitor formats
+ - smaller delirevable slickes that we could ship independently: file access to competitor systems
+ 
+Having an hierarchical backlog you could move toward a differente business objective if the market could change(has differents objectives).
+
+#### Group storis by impact
+
+Impact map ( mind map ) is a visaulisation of how delirevable scopes connects to business goals and the underlying assumptions on four levels.
+
+
+
+
  
 
  
