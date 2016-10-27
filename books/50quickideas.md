@@ -66,9 +66,9 @@ The first level of the mind map is the business goal for a milestone of a projec
 
 | Goal    | Actor                 | Impact  | Deliverable |
 |-------- | --------------------- | ------- | ----------- |
-| Grow 	  | ->Super fan	       -> | ->Come back freq-> | ->Push Updates    |
-| Mobile  | ->Concert Organizers  | ->Stay Longer      | ->Speacial Offers | 
-| Adv     | -> Artists            | ->View more ads    |                   | 
+| Grow Mobile Adv  	  | ->Super fan	       -> | ->Come back freq-> | ->Push Updates    |
+|         | ->Concert Organizers  | ->Stay Longer      | ->Speacial Offers | 
+|         | -> Artists            | ->View more ads    |                   | 
 
 
 
