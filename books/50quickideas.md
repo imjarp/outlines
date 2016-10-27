@@ -62,6 +62,14 @@ Having an hierarchical backlog you could move toward a differente business objec
 
 Impact map ( mind map ) is a visaulisation of how delirevable scopes connects to business goals and the underlying assumptions on four levels.
 
+The first level of the mind map is the business goal for a milestone of a project or a product delivery. The second level of the mind map contains user segments, stakeholders or actors who will be involved in achieving the goal. The third level of the map shows the impacts on users and stakeholders that can contribute to the business goal, or that could hinder achieving the objective. The fourth level of the map is for the deliverables – user stories or even larger deliverables (such as epics) that can cause the impacts.
+
+| Goal   | Actor                 | Impact  | Deliverable |
+----------------------------------------------------------
+Grow 	 |->Super fan	       ->|->Come back freq->|->Push Updates
+Mobile   |->Concert Organizers   |->Stay Longer     |->Speacial Offers
+Adv      |-> Artists             |->View more ads   |
+
 
 
 
