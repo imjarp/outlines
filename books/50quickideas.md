@@ -23,7 +23,7 @@ Prefered ` 'As a .. I want .. So that..' ` Write down who wants something and wh
 Valuable initiatives produce observable change in someone´s way of working.Identify what could change in the system that produces a change in the user´s way interaction as an example.A measurable behaviour change make stories easier to split.
 
 #### Describe the system change
-Every story should describe behavoiur change that represent business value (the why) of the story, it should also be clear about the change a team needs to make to software(what)
+Every story should describe behaviour change that represent business value (the why) of the story, it should also be clear about the change a team needs to make to software(what)
  
 #### Approach storias as survivable experiments
 Stories should be about how much business stakeholders want to invest in learning whether a proposed change will actually give them what they assumed. Help business sponsors manage their investment in software and get the most out of it. 
@@ -64,16 +64,20 @@ Impact map ( mind map ) is a visaulisation of how delirevable scopes connects to
 
 The first level of the mind map is the business goal for a milestone of a project or a product delivery. The second level of the mind map contains user segments, stakeholders or actors who will be involved in achieving the goal. The third level of the map shows the impacts on users and stakeholders that can contribute to the business goal, or that could hinder achieving the objective. The fourth level of the map is for the deliverables – user stories or even larger deliverables (such as epics) that can cause the impacts.
 
-| Goal    | Actor                 | Impact  | Deliverable |
-|-------- | --------------------- | ------- | ----------- |
+| Goal                | Actor                 | Impact             | Deliverable       |
+|--------             | --------------------- | ------------------ | ----------------- |
 | Grow Mobile Adv  	  | ->Super fan	       -> | ->Come back freq-> | ->Push Updates    |
-|         | ->Concert Organizers  | ->Stay Longer      | ->Speacial Offers | 
-|         | -> Artists            | ->View more ads    |                   | 
+|                     | ->Concert Organizers  | ->Stay Longer      | ->Speacial Offers | 
+|                     | -> Artists            | ->View more ads    |                   | 
 
+#### Create a user story map 
 
-
+#### Change behaviour using the CREATE funnel
+ 
+ - Cue:thepossibilityofactionneedstocrosstheperson’smind
+ - Reaction: the person automatically and intuitively reacts to the idea in a fraction of a second, generating an emotional response
+ - Evaluation: the person thinks about the action consciously, evaluating the costs and benefits
+ - Ability: the person evaluates whether the action is feasible given the current context
+ - Timing: the person judges whether they should act now or later
 
  
-
- 
-
