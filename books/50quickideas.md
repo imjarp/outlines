@@ -80,4 +80,26 @@ The first level of the mind map is the business goal for a milestone of a projec
  - Ability: the person evaluates whether the action is feasible given the current context
  - Timing: the person judges whether they should act now or later
 
- 
+#### Set out globlal concerns at the start of a milestone
+
+User stories are not particulary well suited for addressing global cross-cutting concerns such as capacity, performance and security.
+A good stategy for dealing with such issues is to have a separate discussion about global concern per milestone. 
+Implementations constraints, resource limitations, operational requirements and licensing requirements all go in this category.
+Solutions :
+ - Pyramid of quality
+ -  FURPS+ mind map. (FURPS stands for functionality, usability, reliability, performance, supportability)
+
+Consider a checklist of expectations for global concerns such as usability or security.
+
+#### Prioritise according to stages of growth
+
+ In Lean Analytics, Alistair Croll and Benjamin Yoskovitz suggest a common growth model for successful products:
+ - Empathy: figuring out how to solve a real problem in a way that people will pay for 
+ - Stickiness: building the right product to keep users around
+ - Virality: growing the user base organically and artificially
+ - Revenue: establishing a sustainable, scalable business model with the right margins in a healthy ecosystem
+ - Scale: growing the business
+
+You don´t have to go too far because you will have to write user stories depending on the situation on the stage of growth, _focus on critical objectives for the current stage_
+
+#### Prioritise using purpouse alignment
