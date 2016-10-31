@@ -103,3 +103,34 @@ Consider a checklist of expectations for global concerns such as usability or se
 You don´t have to go too far because you will have to write user stories depending on the situation on the stage of growth, _focus on critical objectives for the current stage_
 
 #### Prioritise using purpouse alignment
+
+Moscow model, splitting features Must have, Should have, Could have and Would Like.
+Ask two questions :
+ - It is mission critical ( Can the business run without it?)
+ - It is market differentiating ?
+ 
+ Once these questions have been answered, items can end up in one of four categories:
+ - Differentiating: both mission critical and market differentiating. This is the area where organisations should focus most of their investment. For such items, good just isn’t enough, excellence is required.
+ - Parity: mission critical, but not market differentiating. These are things that have to be done, but they can just be good enough. Making them significantly better than the competition is an over-investment.
+ - Partner:market-differentiating opportunities that aren’t mission critical, for example opening up an experimental sales channel using mobile devices.
+ - Who cares: ideas that aren’t mission critical or market differentiating.
+ 
+#### Make a stakeholder chart
+
+Answer the next questions
+ - Who will be impacted by the project?
+ - Who will be responsible or accountable for the project?
+ - Who will have decision authority on the project?
+ - Who can support the project?
+ - Who can obstruct the project?
+ - Who has been involved in this type of project in the past?
+ 
+Create a 2x2 grid on the wall or a white- board, with axes labelled interest and power, and group the post- its according to how important your product or initiative is to a stakeholder (interest) and how much ability they have to bring about their preference about a topic (power)
+
+The group of stakeholders is contextual and dependent on the outcome you are trying to create, so make a stakeholder map only once you know the goals of a milestone, and revisit it before starting another milestone.Teams who build consumer products often have to significantly change their stakeholder maps between products or even milestones.
+
+#### Nme your milestones
+
+
+
+
