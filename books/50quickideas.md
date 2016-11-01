@@ -129,7 +129,34 @@ Create a 2x2 grid on the wall or a white- board, with axes labelled interest and
 
 The group of stakeholders is contextual and dependent on the outcome you are trying to create, so make a stakeholder map only once you know the goals of a milestone, and revisit it before starting another milestone.Teams who build consumer products often have to significantly change their stakeholder maps between products or even milestones.
 
-#### Nme your milestones
+#### Name your milestones
+ It is better to name a milestone according to the capability represented by the set of stories included in it.
+ 
+#### Focus milestones on a limited number of user segments
+ Selecting a limited number of target segments for each milestone prevents stakeholders from constantly inventing new user roles. This makes people think twice when writing stories to justify pet features, and results in better, more focused stories.
+
+
+## Discussing stories
+
+#### Use low-tech for story conversations
+ Good user stories are a remainder to have a conversation. Please avoid at the beginning to use any technology tool.
+
+#### Imagine the demostration
+ Make a demo on the user stories you have been working.Try to imagine how will you demostrate the achivement.
+
+#### Diverge and merge for story discussions
+ If the group is more than 10 persons split and discuss then bring the groups together and compare the results. Bringing groups together helps to coordinate and identify sources of misunderstanding.
+
+#### Involve all roles in the discussion
+ Create small conversations that involve at least one person representing each of the development, testing and analysis roles.
+
+
+#### Measure alignment using feedback exercises
+ 
+
+
+
+
 
 
 
