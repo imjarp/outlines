@@ -152,10 +152,48 @@ The group of stakeholders is contextual and dependent on the outcome you are try
 
 
 #### Measure alignment using feedback exercises
+ Feedback exercises are driven by questions,ideally structured around some difficult edge cases. It’s very important that while everyone else focuses on the boundary conditions in the exercise, the facilitator focuses on the form of the questions. Exercises should ideally be driven by questions that do not lead people to answers, questions that are as open-ended as possible
+
+#### Play the devil´s advocate
+ One good way of discovering bad ideas quickly is playing the devil’s advocate – intentionally challenging the perceived need addressed by a user story
  
+ Try challenging several aspects of the story:
+ - Argue that the target user doesn’t really have the need (I don’t want to log in)
+ - Argue that the target user segment is wrong (someone else wants end-users to do that)
+ - Argue that the proposed solution is wrong (delivering the solution will not provide the benefit)
 
+#### Divide	 responsibility for defining stories
+ But deciding isn’t the same as defining, and this is where things go wrong! Getting business stakeholders to design solutions wasn’t the original intention of user stories – but many teams have fallen into this trap
 
+ 
+#### Split business and technical discussions
+Discuss business needs and divide stories according to value with business users, then let them go and do their day job while the delivery team looks at stories from a technical perspective
 
+#### Investigate data on multiple levels
+
+When the whole chainof reasoningis clear,it’s much easier to have a useful discussion on what the story really needs to deliver and to design experiments to validate the underlying assumptions.
+
+#### Discuss sliding-scale measurements with QUPER
+Quality Performance model visualises and exposes two types of information about the market need and the proposed architectural solitutions: breakpoints and barriers.
+
+Breakpoints are thresholds of usefulness for a particular aspect of a system:
+ - Utility : moves from useless to usable
+ - Differentiation : product becomes a competitive advantage
+ - Saturation : any improvements are an overkill, and make no real difference to users
+ 
+The points where cost-to-benefit ratio changes sharply are called barriers, and they are related to particular potential architectural solutions.
+
+By visualising breakpoints and barriers,we can expose assumptions and have a meaningful discussion about where our solution is compared to the market and where we want it to be (Example :Payment gateways)
+
+Choose ranges instead of numbers ( Complete my transaction in less than 3.4 seconds , my transactions need to be completed in bewteen 2 to 5 seconds)
+(quper Model)(http://quper.org/)
+
+## Splitting Stories
+
+#### Start with the outputs
+
+ 
+ 
 
 
 
