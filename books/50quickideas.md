@@ -199,7 +199,9 @@ The key benefit of thinking about outputs first is that it becomes much easier t
  Aim to deliver the user interface part first, on a very simple architecture. Try to skip all back-end components that would slow down delivery, even if for half a day. Deliver a user interface part that looks and works as much like the final version as possible, to avoid future surprises. Iterate on the interface until you confirm that you’re delivering value. Then replace the back end with as few changes to the user interface part as possible to avoid surprises.
 
 #### Narrow down the customer segment 
+ Don’t give everyone 2% of what they need, instead give 2% of users everything they need. (Example Reports for 2 people UK transactions)
  
+#### Split by examples of usefulness  
  
 
 
