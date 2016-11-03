@@ -191,7 +191,14 @@ Choose ranges instead of numbers ( Complete my transaction in less than 3.4 seco
 ## Splitting Stories
 
 #### Start with the outputs
+The key benefit of thinking about outputs first is that it becomes much easier to create a sensible incremental delivery plan. Outputs are much easier to slice than inputs because they enable users to achieve something concrete, and people can have fruitful discussions on them.
 
+#### Forget the walking skeleton- put in on crutches
+ A dancing skeleton not only delivers a small function on  the target architecture, it also involves an interface for developers to interact with the environment and experiment.
+ Early validation is an important consequence of early delivery of value.Instead of showingsomething basic to users and asking them to imagine the final fantastic offering, a skeleton on crutches allows them to actually use something in real work.
+ Aim to deliver the user interface part first, on a very simple architecture. Try to skip all back-end components that would slow down delivery, even if for half a day. Deliver a user interface part that looks and works as much like the final version as possible, to avoid future surprises. Iterate on the interface until you confirm that you’re delivering value. Then replace the back end with as few changes to the user interface part as possible to avoid surprises.
+
+#### Narrow down the customer segment 
  
  
 
