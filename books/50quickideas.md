@@ -201,7 +201,23 @@ The key benefit of thinking about outputs first is that it becomes much easier t
 #### Narrow down the customer segment 
  Don’t give everyone 2% of what they need, instead give 2% of users everything they need. (Example Reports for 2 people UK transactions)
  
-#### Split by examples of usefulness  
+#### Split by examples of usefulness 
+  Instead of slicing technical deliverables and then looking for useful chunks of value, try to start from the opposite direction: slice value and look for useful technical chunks.
+
+#### Split by capacity
+
+You can easily open up a discussion on smaller slices and faster feedback if you view capacity as a dimension that can be progressively delivered. A solution that provides less capacity often requires simpler versions of components, and might not require some major parts at all. At the same time , it´s likely that there are use cases that can be satisfied with less capacity, so even those simpler solutions can be shipped to end-users.
+
+#### Start with dummy, then move to dynamic
+ The real value of software is mostly in its outputs, not in its inputs. An interesting strategy for splitting stories while preserving most of the value is to avoid any work around preparing inputs at first. This particularly applies to reference data.(Load data from file not from DB example)
+
+#### Simplify outputs
+
+
+
+
+  
+ 
  
 
 
