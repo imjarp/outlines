@@ -229,6 +229,14 @@ You can easily open up a discussion on smaller slices and faster feedback if you
  5. Remove options that don’t produce useful technical slices
  6. Choose a slice
  
+## Managing Iterative Delivery
+
+#### Don´t push everything into stories
+
+
+
+ 
+ 
 
   
  
