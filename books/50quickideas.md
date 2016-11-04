@@ -212,9 +212,9 @@ You can easily open up a discussion on smaller slices and faster feedback if you
  The real value of software is mostly in its outputs, not in its inputs. An interesting strategy for splitting stories while preserving most of the value is to avoid any work around preparing inputs at first. This particularly applies to reference data.(Load data from file not from DB example)
 
 #### Simplify outputs
+ If you’ve tried to simplify input channels and split by capacity, but a story is still too big, it’s often possible to split the story further from the other end, by simplifying outputs. This approach is particularly applicable to internal enterprise development, where the final output often needs to be stored in an obscure database handled by a completely different team.
 
-
-
+#### Split learning from earning
 
   
  
