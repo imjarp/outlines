@@ -222,12 +222,12 @@ You can easily open up a discussion on smaller slices and faster feedback if you
  This technique works particularly well for splitting a time-critical story into a smaller piece that remains time-critical and a larger section that can be managed without a deadline.
 
 #### When all else fails, slice the hamburguer
- 1 List technical components
- 2 Define quality attributes
- 3 List options at different levels of quality
- 4 Remove unsatisfactory options
- 5 Remove options that don’t produce useful technical slices
- 6 Choose a slice
+ 1. List technical components
+ 2. Define quality attributes
+ 3. List options at different levels of quality
+ 4. Remove unsatisfactory options
+ 5. Remove options that don’t produce useful technical slices
+ 6. Choose a slice
  
 
   
