@@ -215,6 +215,20 @@ You can easily open up a discussion on smaller slices and faster feedback if you
  If you’ve tried to simplify input channels and split by capacity, but a story is still too big, it’s often possible to split the story further from the other end, by simplifying outputs. This approach is particularly applicable to internal enterprise development, where the final output often needs to be stored in an obscure database handled by a completely different team.
 
 #### Split learning from earning
+ A helpful way of thinking about this is that a story should be either about learning or earning. Learning stories help stakeholders plan better. Earning stories help to deliver value to end-users
+
+#### Extract basic utility
+ The goal is to first make something that enables a user to at least complete a critical task, and then plan for making it faster, easier or require less effort later.
+ This technique works particularly well for splitting a time-critical story into a smaller piece that remains time-critical and a larger section that can be managed without a deadline.
+
+#### When all else fails, slice the hamburguer
+ 1 List technical components
+ 2 Define quality attributes
+ 3 List options at different levels of quality
+ 4 Remove unsatisfactory options
+ 5 Remove options that don’t produce useful technical slices
+ 6 Choose a slice
+ 
 
   
  
