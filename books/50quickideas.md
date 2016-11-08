@@ -232,17 +232,25 @@ You can easily open up a discussion on smaller slices and faster feedback if you
 ## Managing Iterative Delivery
 
 #### Don´t push everything into stories
+ Just push delirevable business value (customer oriented), not other activities.
 
+#### Budget instead of estimate
+ Instead of estimating, try to start with a budget for a bigger piece of work, in terms of both operational costs and time. This budget can then become a design constraint for the delivery team, similar to scalability or performance. Essentially, rather than asking ‘how long will it take?’, ask ‘when do you need this by?’ and ‘how muchcan you afford to pay for it?’ The delivery team then needs to come up with a solution to fit these constraints. This, of course, requires transparency and trust between the people delivering software and the people paying for it, so it is much easier to do for in-house software than for third-party delivery
+(People are often much more comfortable talking about extremes than precise values)
 
+You should really be about reducing that uncertainty.Instead of deciding on the entire budget, plan incrementally
 
- 
- 
+#### Avoid using numeric story sizes
+ Story sizing is useful for one purpouse : deciding whether a storu is too big to implement or small enough to get fast feedback.Because unexpected details are discovered only when stories finally come into delivery, teams often end up being pressured to deliver software of insufficient quality. Ultimately, such negative incentives prevent organisations from getting the big benefit of agile delivery – being able o quickly change direction and replan when market opportunities change.
 
-  
- 
- 
+#### Estimate capacity based on rolling number of stories
 
+By using a rolling average instead of an absolute number the team can allow for learning during delivery and avoid the negative effects of changes to absolute sizes overtime.As the product matures or the team grows or shrinks,a rolling number will only compare capacity to recent events, not the entire history.
 
+#### Estimate capacity based on analysis time
+Estimating capacity based on analysis time works well in contexts where the critical complexity of delivery is in understanding the business domain. If the majority of your stories are easy to understand from the business perspective, but the tricky part is actually making it work technically or fitting it into an existing legacy infrastructure, analysis time isn’t a good indicator. That’s why this approach won’t work well in contexts where the critical complexity is technical
 
+Solution : Time-box story discussions to avoid a single complex item taking too long.
 
+#### Pick impact stories instead of prioritising stories
 
