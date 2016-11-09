@@ -235,7 +235,7 @@ You can easily open up a discussion on smaller slices and faster feedback if you
  Just push delirevable business value (customer oriented), not other activities.
 
 #### Budget instead of estimate
- Instead of estimating, try to start with a budget for a bigger piece of work, in terms of both operational costs and time. This budget can then become a design constraint for the delivery team, similar to scalability or performance. Essentially, rather than asking ‘how long will it take?’, ask ‘when do you need this by?’ and ‘how muchcan you afford to pay for it?’ The delivery team then needs to come up with a solution to fit these constraints. This, of course, requires transparency and trust between the people delivering software and the people paying for it, so it is much easier to do for in-house software than for third-party delivery
+ Instead of estimating, try to start with a budget for a bigger piece of work, in terms of both operational costs and time. This budget can then become a design constraint for the delivery team, similar to scalability or performance. Essentially, rather than asking ‘how long will it take?’, ask ‘when do you need this by?’ and ‘how much can you afford to pay for it?’ The delivery team then needs to come up with a solution to fit these constraints. This, of course, requires transparency and trust between the people delivering software and the people paying for it, so it is much easier to do for in-house software than for third-party delivery
 (People are often much more comfortable talking about extremes than precise values)
 
 You should really be about reducing that uncertainty.Instead of deciding on the entire budget, plan incrementally
@@ -253,4 +253,32 @@ Estimating capacity based on analysis time works well in contexts where the crit
 Solution : Time-box story discussions to avoid a single complex item taking too long.
 
 #### Pick impact stories instead of prioritising stories
+ As an alternative to story prioritisation, try to pick the most important impacts on customers.Impacts are much easier to discuss and compare than stories, describe a behaviour change. Combine this with the idea of budgeting instead of estimating and you can get a set of nice constraints for the delivery team.
+
+#### Never say 'no' -say 'not now'
+ While flexible planning can offer significant business benefits, accepting anything into delivery just because someone thinks it’s a good idea can lead to a lot of wasted effort, unnecessary software complexity and high future maintenance costs. It can also create a lot of noise in the plan and delay strategically important deliverables.
+ 
+ _First try to get key stakeholders to prioritise business impacts instead of stories_
+ 
+ Create a hierarchical backlog, for example using impact maps or user story maps, to allow stakeholders to prioritise at a higher level before even considering story priorities
+ 
+#### Split UX improvements from consistency work
+
+#### Get end-users to opt in to large user interface changes
+ Deploying a parallel version of the product and inviting users to try it out at their leisure. Users should be ideally be able to make the new version their default if they like it, but still go back to the old version in case of any issues.
+ 
+#### Check outcomes with real users
+
+ _It is absolutely essential that you test your ideas out with real end-users. It is arguably the single most important part of your job_
+ 
+ If you fear the consequences of removing features after they have appeared in the wild, a good solution is to do staged releases, where only a small percentage of users gets new capabilities. Then rolling back in case of failure is not such a big issue
+ 
+#### Throw stories away after they are delivered
+
+ After a story is done, it’s better to restructure acceptance criteria by functionality instead of by stories
+
+
+ 
+ 
+
 
