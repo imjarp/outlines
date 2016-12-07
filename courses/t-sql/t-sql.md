@@ -14,6 +14,14 @@
 this returns the first non value in the list
 
 
+Sets Operators
+--------------------------------------
+- UNION :only distinct rows from both query 
+- UNION ALL : rows from both query
+- INTERSECT : Only rows that apperat in both sets
+- EXCEPT : Only distinct rows that appear in the first set but not in the second
+
+
 ORDER BY
 OFFSET <offset_value> ROW(S)
 FETCH FIRST|NEXT <fetch_value> ROW(S) ONLY
