@@ -1,12 +1,6 @@
 GIT cheatsheet 
 ==============================
 
-```
-if (isAwesome){
-  return true
-}
-```
-
 ` git clone ` download & create remote
 
 ` git branch -d {name} ` 
