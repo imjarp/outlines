@@ -29,5 +29,20 @@ GIT cheatsheet
 
  ` git push {remote}  {localBranch} : {serverBranch}`
 
+ GIT TAG
+ --------------------
+
+ `git tag`
+
+ `git tag -a v0.0.0.3 -m 'Version 0.0.0.3'`
+
+ ` git push --tags`
+
+ ` git checkout {tag}`
+
+
+ GIT REBASE 
+ --------------------
+
  
 
