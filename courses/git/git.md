@@ -96,6 +96,10 @@ GIT CONFIG
 
 `git config --global alias.{myAlias}  log --`
 
+`git config --global  core.autocrlf {input-> for Linux}`
+
+
+
 
 GIT STASH
 ---------------
@@ -117,4 +121,18 @@ GIT STASH
 `git stash show`
 
 `git stash clear`
+
+
+GIT Filter branch
+-----------------
+
+`git filter-branch --tree-filter {command} --all` : goes to all branches
+
+`git filter-branch --tree-filter HEAD` :  filter only current branch
+
+`git filter-branch --index-filter` :  only in the staging area
+
+`git filter-branch -f --prune-empty -- --all` :  drop commits that dont alter any files
+
+
 
