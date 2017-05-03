@@ -17,6 +17,8 @@ GIT cheatsheet
 
  ` git push {remote} {branch}`
 
+ ` git push -u origin {branch-name}`
+
  ` git branch -r ` remote branches
 
  ` git remote show {remote} `
@@ -39,6 +41,14 @@ GIT cheatsheet
  ` git push --tags`
 
  ` git checkout {tag}`
+
+ Types of tags
+
+ - Lightweight : no message no header
+
+ - Signed
+
+ - Annotaded `-a {version} -m {message}`
 
 
  GIT REBASE 
@@ -133,6 +143,46 @@ GIT Filter branch
 `git filter-branch --index-filter` :  only in the staging area
 
 `git filter-branch -f --prune-empty -- --all` :  drop commits that dont alter any files
+
+
+Git Submodule
+---------------
+
+`git submodule add`
+
+`git submodule init` : will read .gitmodules files
+
+`git submodule update`
+
+`git push --recurse-submodule=check` : will abort a push if you haven´t pushed a submodule
+
+`git push --recurse-submodule=on-demand` : push all repositories
+
+
+Git Reflog
+---------------
+
+`git reflog` : it´s a secondary log local in our repo
+
+`git log --walk-reflog`
+
+
+Git Re Re Re
+-------------
+
+Git recuse recorded resolution
+
+`git config --global rerere.enable true`
+
+
+Git Practices 
+--------------
+
+Interactive -> use for *simplify history*
+
+FastForward -> less commits
+
+`recursive merge --no-ff`
 
 
 
